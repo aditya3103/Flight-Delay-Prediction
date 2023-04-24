@@ -11,7 +11,9 @@ We evaluate the performance of our models using several different metrics, inclu
 
 Bar Graph for  **MAE**
 
-![](RackMultipart20230424-1-vso2s_html_9ad8f84169b441f.png) *
+![image](https://user-images.githubusercontent.com/87059885/233943500-e8e4cbd7-7478-4a4e-8bc6-ec5e44eee3e6.png)
+
+
 
 Bar Graph for **MSE**
 
