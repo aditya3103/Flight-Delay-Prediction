@@ -9,7 +9,9 @@ We evaluate the performance of our models using several different metrics, inclu
 
 **Visualisations:** The following bar graphs show the comparison of each model based on MAE, MSE, RMSE, and R2 score:
 
-B ![](RackMultipart20230424-1-vso2s_html_9ad8f84169b441f.png) ar Graph for **MAE**
+Bar Graph for  **MAE**
+
+![](RackMultipart20230424-1-vso2s_html_9ad8f84169b441f.png) *
 
 Bar Graph for **MSE**
 
