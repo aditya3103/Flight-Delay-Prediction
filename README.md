@@ -8,7 +8,7 @@ To install the project, follow these steps:
 2. Install all dependencies by running: `pip install skfuzz` `pip install numpy` `pip install beautifulsoup4`
 3. Run the python files in the main branch.
 
-# Name of the Search Algorithm
+# Name of the Search Algorithm (Knowledge Representation)
 
 BFS and A-Star Search
 
@@ -40,7 +40,7 @@ A-Star Approach - Node sequence taken
 
 In conclusion, BFS fails to give a good estimate of the delay because obvious shortcomings in the algorithm to calculate the shortest path when the edges are non uniform. A-Star Search does a very fine job in estimating the delay as it gives very realisitic values, close to what we may encounter in daily lives.
 
-# Name of Search Algorithms
+# Name of Search Algorithms (Using ML)
 
 Genetic, Hill Climbing and Particle Swarm Optimization.
 
