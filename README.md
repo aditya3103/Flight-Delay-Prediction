@@ -24,6 +24,16 @@ In both the search algorithms, there is a slight variation. At every node, we ma
 
 The project includes a graphical user interface (GUI) that allows users to input a graph and run the BFS algorithm and the A-Star Search Algorithm. The GUI displays the delay in minutes and the terminal shows the sequence of nodes visited by the algorithm to arrive at the goal node (which is approximately same as the actual flight path assuming the nodes are densely situated geographically)
 
+Graphical User Interface
+![image](https://user-images.githubusercontent.com/85363167/233984650-fa636456-92b3-459d-960f-7ae36d34c317.png)
+
+BFS Approach - Node sequence taken
+![image](https://user-images.githubusercontent.com/85363167/233984617-cbff408c-49c2-46dd-9ac7-0f3525ae002f.png)
+
+A-Star Approach - Node sequence taken
+![image](https://user-images.githubusercontent.com/85363167/233984632-825f5500-4a56-434f-b261-6f257f42d7ef.png)
+
+
 
 
 # Conclusion
