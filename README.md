@@ -17,15 +17,17 @@ Bar Graph for  **MAE**
 
 Bar Graph for **MSE**
 
-![](RackMultipart20230424-1-vso2s_html_e7c6c6080581fc0a.png)
+![image](https://user-images.githubusercontent.com/87059885/233943652-7325b583-7fde-4985-b079-15ac6ab6584b.png)
+
 
 Bar Graph for R2 Score
+![image](https://user-images.githubusercontent.com/87059885/233943736-3e649a05-8739-4d03-bc3a-ec95ccc5ad48.png)
 
-![](RackMultipart20230424-1-vso2s_html_2f2b1d59138dfba4.png)
 
 Bar Graph for RMSE
 
-![](RackMultipart20230424-1-vso2s_html_c607e788ed8314fa.png)
+![image](https://user-images.githubusercontent.com/87059885/233943854-a5d5bbc5-80a0-42a2-a1e6-d883922df8b8.png)
+
 
 **Conclusion:** Our results indicate that our Random Forest model, trained using hyperparameter optimization with the Genetic Algorithm, outperforms the other models we tested, with a lower MAE, MSE, and RMSE, and a higher R2 score. Additionally, we found that normalizing our data had a positive impact on the performance of our models, improving their accuracy in some cases.
 
