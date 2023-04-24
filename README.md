@@ -11,7 +11,8 @@ We evaluate the performance of our models using several different metrics, inclu
 
 Bar Graph for  **MAE**
 
-![image](https://user-images.githubusercontent.com/87059885/233944756-6537790a-549d-4f5f-9243-8ba1f8d42857.png)
+![image](https://user-images.githubusercontent.com/87059885/233944902-255ac29d-f11f-4011-b285-70084ae63925.png)
+
 
 
 
