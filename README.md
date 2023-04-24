@@ -21,6 +21,7 @@ Bar Graph for **MSE**
 
 
 Bar Graph for R2 Score
+
 ![image](https://user-images.githubusercontent.com/87059885/233943736-3e649a05-8739-4d03-bc3a-ec95ccc5ad48.png)
 
 
