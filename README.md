@@ -5,7 +5,7 @@
 To install the project, follow these steps:
 
 1. Clone the repository to your local machine using the command: `git clone <https://github.com/aditya3103/Flight-Delay-Prediction>`
-2. Install all dependencies by running: `pip install skfuzz` `pip install numpy` `pip install beautifulsoup4`
+2. Install all dependencies by running: `pip install skfuzz numpy beautifulsoup4`
 3. Run the python files in the main branch.
 
 # Name of the Search Algorithm (Knowledge Representation)
